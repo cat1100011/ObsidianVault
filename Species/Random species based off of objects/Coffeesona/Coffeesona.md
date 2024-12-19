@@ -19,11 +19,13 @@ The add-ins to your coffee just change how it looks, but the machinery can chang
 * Pourover
     Steamy, they like to calm.
 * Instant Coffee
-    These are bitter and brush, but they also can help you on late nights or early mornings. Power through, sleepy one
+    These are bitter and brush, but they also can help you on late nights or early mornings. 
 
 Need more machinery.
 
 # Form
-Coffeesonas
+Coffeesonas are made of a blob of coffee, and release the aroma of the coffee they are. They don't have defined features unless if it's colder, so they are a little bit like slimes. They tend to want to either be iced or hot, inbetween isn't much.
 
-(continue later)
+
+
+It took me like 2 weeks to write this, holy shit. I finished writing during finals, so yippee! I don't think I'll continue this saga unless if you really want me to, other drink categories will be accepted.
